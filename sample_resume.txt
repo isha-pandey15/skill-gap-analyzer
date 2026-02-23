@@ -1,0 +1,15 @@
+John Doe
+Software Engineer
+
+Skills:
+Python
+Java
+SQL
+Machine Learning
+Data Analysis
+Communication
+Teamwork
+Problem Solving
+
+Experience:
+2 years experience in web development using Python and Django.
